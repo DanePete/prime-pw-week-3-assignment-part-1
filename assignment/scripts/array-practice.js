@@ -9,10 +9,13 @@ console.log('Animals are: ', animalArray);
 
 // 1.a. TODO: Make an array with some favorite foods
 
+let favFoods = ['pasta', 'meat and potatoes', 'chinese', 'mexican', 'indian']
+
 
 // 1.b. TODO: Log your array of foods to the console with a message, similar 
 //      to the example above
 
+console.log('My favorite foods are: ', favFoods);
 
 
 // 2. Array.length - tells you how many items are in the array
